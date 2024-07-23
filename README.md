@@ -32,14 +32,17 @@ This project includes a variety of visualizations created using Python's data vi
 - **Sales Trends:** Noticeable trends in sales over the years, with particular factors influencing these trends.
 
 ## 📷 Screenshots
+### Genre-wise Sales Distribution
+![Genre-wise Sales]( https://github.com/Escanor56/Data-Science-Project/blob/main/Docs/Sales%3AGenre.png)
 ### Frequency Of Games In Different Genres
-![Frequency of Games per Genre](images/genre_sales.png)
+
+![Frequency of Games per Genre](https://github.com/Escanor56/Data-Science-Project/blob/main/Docs/Games-Genres.png)
 
 ### Frequency Of Games On Platforms
-![Frequency per Platform](images/sales_trend.png)
+![Frequency per Platform](https://github.com/Escanor56/Data-Science-Project/blob/main/Docs/Games%3APlatform.png)
 
-### Regional Sales Comparison
-![Regional Sales](images/regional_sales.png)
+### Sales Comparison
+![Regional Sales]()
 
 ## 📝 Usage Instructions
 To explore the analysis in detail:
