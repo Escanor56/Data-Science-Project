@@ -10,7 +10,6 @@ This repository contains an in-depth analysis of video game sales data, aimed at
 - [Key Findings](#-key-findings)
 - [Screenshots](#-screenshots)
 - [Contact](#-contact)
-- [License](#-license)
 
 ## 🛠️ Data Transformation
 The data underwent several transformation steps to ensure accuracy and consistency:
@@ -60,10 +59,6 @@ To explore the analysis in detail:
 ## 📧 Contact
 For more information or any queries, feel free to contact me:
 - Email: [kevinmshelly@gmail.com](mailto:kevinmshelly@gmail.com)
-
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
