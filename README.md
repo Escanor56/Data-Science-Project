@@ -49,11 +49,7 @@ To explore the analysis in detail:
    ```bash
    git clone https://github.com/yourusername/Video-Game-Sales-Analysis.git
    ```
-2. Navigate to the `notebook` folder:
-    ```bash
-    cd Video-Game-Sales-Analysis/notebooks
-    ```
-3. Open the VideoGameSalesDV.ipynb notebook using Jupyter Notebook or JupyterLab.
+2. Open the VideoGameSalesDV.ipynb notebook using Jupyter Notebook or JupyterLab.
 
 
 ## 📧 Contact
